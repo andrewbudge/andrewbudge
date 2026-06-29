@@ -1,8 +1,9 @@
 # Andrew Budge
 
-Undergrad in **bioinformatics**, studying **phylogenomics** and building tools to streamline genomics workflows.
+- Undergrad at Utah Valley University studying **bioinformatics**
+- studying **phylogenomics** and building tools to streamline genomics workflows.
 
-Most of my projects are small, focused command-line tools — usually written in Rust — that take a slow or fiddly step in a phylogenetic pipeline and make it fast and reproducible.
+Most of my projects are command-line tools — usually written in Rust — that take a slow or fiddly step in pipelinea and make it fast, reproducible and easy to use.
 
 ---
 
