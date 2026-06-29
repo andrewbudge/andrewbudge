@@ -3,7 +3,7 @@
 - Undergrad at Utah Valley University studying **bioinformatics**
 - studying **phylogenomics** and building tools to streamline genomics workflows.
 
-Most of my projects are command-line tools — usually written in Rust — that take a slow or fiddly step in pipelinea and make it fast, reproducible and easy to use.
+Most of my projects are command-line tools — usually written in Rust — that take a slow or fiddly step in pipelineas and make it fast, reproducible and easy to use.
 
 ---
 
@@ -25,7 +25,7 @@ Most of my projects are command-line tools — usually written in Rust — that 
 `Nextflow`
 
 **Domains**
-Phylogenetics · Phylogenomics · Metagenomics · Sequence analysis
+Phylogenomics · Metagenomics · Sequence analysis
 
 ---
 
