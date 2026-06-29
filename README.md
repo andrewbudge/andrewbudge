@@ -18,7 +18,7 @@ Most of my projects are small, focused command-line tools — usually written in
 ## Tech stack
 
 **Languages**
-`Rust` · `Python` · `Bash / Shell`
+`Rust` · `R` · `Bash`
 
 **Workflows & pipelines**
 `Nextflow`
@@ -41,13 +41,4 @@ Phylogenetics · Phylogenomics · Metagenomics · Sequence analysis
 ## GitHub stats
 
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewbudge&show_icons=true&hide_border=true)](https://github.com/andrewbudge)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewbudge&layout=compact&hide_border=true)](https://github.com/andrewbudge)
-
----
-
-## Coding activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
