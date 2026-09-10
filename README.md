@@ -22,7 +22,7 @@ Most of my projects are command-line tools — usually written in Rust — that 
 `Rust` · `R` · `Bash`
 
 **Workflows & pipelines**
-`Nextflow`
+`Nextflow``snakemake`
 
 **Domains**
 Phylogenomics · Metagenomics · Sequence analysis
